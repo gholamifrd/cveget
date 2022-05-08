@@ -3,6 +3,7 @@ Get publicly available CVEs in grepable (CSV-like) format.
 Useful to quickly finding vulnerabilities associated with a specific product.
 
 ## Install
+Make sure to have `jq` installed
 ```bash
 git clone https://github.com/gholamifrd/cveget
 cd cveget
